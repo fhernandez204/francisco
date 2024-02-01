@@ -38,4 +38,8 @@ GET USUARIO
 
  http://localhost:8080/api/users
 
+ ![image](https://github.com/fhernandez204/francisco/blob/main/getUsers.png)
+
+ 
+
  
