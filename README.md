@@ -34,3 +34,8 @@ SI EL CORREO NO TIENE EL FORMATO CORRECTO
 ![image](https://github.com/fhernandez204/francisco/blob/main/createUser3.png)
 
 
+GET USUARIO
+
+ http://localhost:8080/api/users
+
+ 
