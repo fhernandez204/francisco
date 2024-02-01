@@ -40,6 +40,9 @@ GET USUARIO
 
  ![image](https://github.com/fhernandez204/francisco/blob/main/getUsers.png)
 
- 
+
+ MODIFICAR USUARIO
+
+ http://localhost:8080/api/users/13502
 
  
