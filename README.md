@@ -1,4 +1,4 @@
-Spring Boot JPA + H2
+Proyecto de Spring Boot con JPA + H2
 
 Desarrollo de una aplicación que exponga una API RESTful para la creación de usuarios y manejo de JWT como token.
 
@@ -8,7 +8,7 @@ REQUISITO:
 
 ● Proceso de build vía Maven.
 
-● Persistencia con JPA. Ejemplo: Hibernate.
+● Persistencia con JPA. Hibernate.
 
 ● Framework SpringBoot.
 
